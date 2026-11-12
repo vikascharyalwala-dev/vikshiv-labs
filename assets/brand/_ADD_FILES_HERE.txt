@@ -1,0 +1,4 @@
+Brand files.
+
+  favicon.svg    browser tab icon (replace with your logo, keep the name)
+  og-image.jpg   preview image when the link is shared (1200 x 630 px)

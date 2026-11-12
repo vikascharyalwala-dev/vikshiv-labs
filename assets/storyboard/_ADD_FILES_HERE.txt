@@ -1,0 +1,8 @@
+The "Drawn First. Generated Second." slider. The sketch side is made automatically from this same file.
+
+Drop your files here with these exact names:
+  compare.mp4   (video)   or   compare.jpg / .png / .webp   (still image)
+
+A video wins over an image if both exist.
+If a slot is empty, the site plays a free stock clip instead.
+Tips: H.264 .mp4, 10–20 seconds, 1080p or smaller, under ~8 MB each.

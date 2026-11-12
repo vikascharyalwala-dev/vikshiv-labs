@@ -1,0 +1,4 @@
+Founder photo for the About section.
+
+Save it as:  founder.jpg  (or founder.png)
+Portrait 4:5, at least 900 x 1125 px. It is shown in black and white automatically.

@@ -1,0 +1,8 @@
+Hero background (full screen, top of the page)
+
+Drop your files here with these exact names:
+  hero.mp4   (video)   or   hero.jpg / .png / .webp   (still image)
+
+A video wins over an image if both exist.
+If a slot is empty, the site plays a free stock clip instead.
+Tips: H.264 .mp4, 10–20 seconds, 1080p or smaller, under ~8 MB each.
