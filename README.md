@@ -36,21 +36,7 @@ Any slot left empty plays a free Mixkit stock clip, so the site never shows a bl
 - Images: around 1600–2000 px wide, `.jpg` or `.webp`.
 - File names are case-sensitive once the site is online, so `Film-1.JPG` will not match `film-1.jpg`.
 
-## Deploy
 
-Upload the whole `Vikshiv_labs` folder as it is. `index.html` must stay at the top level.
-
-- **Netlify:** go to app.netlify.com/drop and drag the folder in. You get a live link in seconds.
-- **Vercel:** create a new project, import the folder (or a GitHub repo of it), choose the "Other" framework preset, and deploy with no build command.
-- **GitHub Pages:** push the folder to a repo, then turn on Pages under Settings → Pages.
-- **Any web host / cPanel:** upload the folder contents into `public_html`.
-
-## Edit before going live
-
-- **Prices:** in `index.html` under `#pricing`. The current numbers are placeholders.
-- **Email and calendar:** set `EMAIL` and `CALENDAR_URL` at the top of `js/main.js`.
-- **Social links:** in the footer of `index.html`.
-- **Colours:** at the top of `css/style.css` (`--wine`, `--wine-card`, `--footer`, `--paper`, `--ink`, `--accent`).
 
 ## Offline stock footage (optional)
 
